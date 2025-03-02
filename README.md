@@ -4,7 +4,9 @@
 M.O.M (My Own Medic) is aimed at providing medical assistance features and AI-driven chat functionality to empower users with quick health-related information.
 
 ## Demo Video
-Check out our [![Demo Video](https://img.youtube.com/vi/fUp6sxivwbo/0.jpg)](https://www.youtube.com/watch?v=fUp6sxivwbo) to see the solution in action.
+Check out our demo video to see the solution in action 👇
+
+[![Demo Video](https://img.youtube.com/vi/fUp6sxivwbo/0.jpg)](https://www.youtube.com/watch?v=fUp6sxivwbo)
 
 ## Installation
 ## Installation
