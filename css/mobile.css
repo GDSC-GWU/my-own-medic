@@ -1,0 +1,64 @@
+/* Mobile-specific enhancements */
+@media (max-width: 767px) {
+    .chat-input-container {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 10px 15px;
+        background-color: white;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+        z-index: 1000;
+    }
+    
+    .chat-container {
+        padding-bottom: 80px !important;
+        max-height: calc(100vh - 220px) !important;
+    }
+    
+    .send-button {
+        width: 45px;
+        height: 45px;
+    }
+    
+    .message-content {
+        max-width: 85%;
+    }
+    
+    .card-header {
+        padding: 10px 0;
+    }
+    
+    .card-header h2 {
+        font-size: 1.5rem;
+    }
+    
+    .sidebar-toggle {
+        bottom: 75px;
+        top: auto;
+        left: 15px;
+        width: 48px;
+        height: 48px;
+    }
+
+    /* Mobile button styling */
+    #summarizeBtn, #riskAssessmentBtn {
+        font-size: 0.85rem;
+        padding: 6px 12px;
+    }
+
+    #summarizeBtn i, #riskAssessmentBtn i {
+        margin-right: 5px;
+    }
+    
+    /* Ensure buttons fit on smaller screens */
+    .d-flex.justify-content-center.mb-3 {
+        flex-wrap: wrap;
+    }
+    
+    /* Add some space between buttons on very small screens */
+    .btn.mx-2 {
+        margin: 5px !important;
+    }
+
+}
