@@ -9,7 +9,6 @@ Check out our demo video to see the solution in action 👇
 [![Demo Video](https://img.youtube.com/vi/fUp6sxivwbo/0.jpg)](https://www.youtube.com/watch?v=fUp6sxivwbo)
 
 ## Installation
-## Installation
 
 1.  Clone the repository:
     ```sh
