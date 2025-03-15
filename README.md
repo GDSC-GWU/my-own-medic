@@ -3,7 +3,7 @@
 ## Project Motive
 M.O.M (My Own Medic) is aimed at providing medical assistance features and AI-driven chat functionality to empower users with quick health-related information.
 
-## Demo Video
+## Presentation
 Check out our demo to understand our motivation, problem statement, and Impact of the solution in action 👇
 
 [![Demo Video](https://img.youtube.com/vi/fUp6sxivwbo/0.jpg)](https://www.canva.com/design/DAGgjX2BCKs/_D5vNlS_9EQcrUCgcFnI3A/view?utm_content=DAGgjX2BCKs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h578f7dce29#17)
