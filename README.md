@@ -1,14 +1,16 @@
-# M.O.M - My Own Medic
+# 🩺 M.O.M – My Own Medic
 
-## Project Motive
-M.O.M (My Own Medic) is aimed at providing medical assistance features and AI-driven chat functionality to empower users with quick health-related information.
+## 🚀 Project Overview
+**M.O.M (My Own Medic)** is an AI-powered medical assistant designed to offer users quick, accessible, and reliable health-related information through a chat-based interface. Whether it's understanding symptoms, asking health questions, or reviewing chat history, M.O.M brings essential medical guidance to your fingertips.
 
-## Presentation
+---
+
+## 🎬 Demo Presentation
 Check out our demo to understand our motivation, problem statement, and Impact of the solution in action 👇
 
 [![Demo Video](https://img.youtube.com/vi/fUp6sxivwbo/0.jpg)](https://www.canva.com/design/DAGgjX2BCKs/_D5vNlS_9EQcrUCgcFnI3A/view?utm_content=DAGgjX2BCKs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h578f7dce29#17)
 
-## Installation
+## 🛠️ Installation Instructions
 
 1.  Clone the repository:
     ```sh
@@ -24,7 +26,7 @@ Check out our demo to understand our motivation, problem statement, and Impact o
     *   Place the PHP files (e.g., `chat-history.php`, `chat.php` from the `api/` directory) in a directory accessible by your web server (e.g., `/var/www/html/api/` for Apache on Linux).
     *   Configure your web server to correctly serve PHP files.
 
-## Steps to Replicate the Setup Locally
+## 💻 Local Setup Guide
 
 1.  Install XAMPP, WAMP, or MAMP:
 
@@ -41,13 +43,13 @@ Check out our demo to understand our motivation, problem statement, and Impact o
 2. Navigate to the project folder.
 3. Start the server and access the application at the provided URL.
 
-## Other Resources
-- [Contributing Guide](CONTRIBUTING.md)  
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+## 📁 Additional Resources
+- [📄 Contributing Guide](CONTRIBUTING.md)  
+- [📜 Code of Conduct](CODE_OF_CONDUCT.md)
 
-## Authors
+## 👥 Authors
 - [Satya Phanindra Kumar Kalaga]() 
 - [Prudhvi Chekuri]() 
-- [Priyesh EM]()
+- [Priyesh EM](beast99-p3)
 - [Aakash Singh Sivaram]()
 - [Tarun Kumanduri]() 
